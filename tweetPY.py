@@ -9,7 +9,7 @@ sys.setdefaultencoding('utf8')
 #insert your Twitter keys here
 consumer_key = 'XXXXXXXX'
 consumer_secret = 'XXXXXXXX'
-access_token = '3XXXXXXXX'
+access_token = 'XXXXXXXX'
 access_secret ='XXXXXXXX'
 
 twitter_handle = 'christinezhang' # replace with username you want
